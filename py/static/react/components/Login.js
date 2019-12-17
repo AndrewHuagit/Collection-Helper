@@ -59,7 +59,7 @@ export default class Login extends React.Component {
 									<div className="row">
 										<div className="col-xs-12">
 											<span className = "welcome-text">
-												Welcome to Good Decks!
+												Welcome to Collection Helper!
 											</span>
 										</div>
 									</div>
